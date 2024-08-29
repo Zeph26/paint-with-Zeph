@@ -1,0 +1,29 @@
+.body{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+body{
+    cursor: pointer;
+}
+h1{
+    color: rgb(220, 12, 19);
+    background-color: pink;
+    font-size: 30;
+    width : 250;
+    border-radius: 30px;
+}
+
+#mycanvas{
+    background-color: white;
+    border-width:10px ;
+    border-style: ridge;
+}
+
+button{
+    background-color: rgb(15, 86, 199);
+    font-size: 20;
+    color : white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
